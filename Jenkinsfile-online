@@ -14,7 +14,7 @@ pipeline {
         GITHUB_CREDENTIAL_ID = 'github-id'
         KUBECONFIG_CREDENTIAL_ID = 'demo-kubeconfig'
         REGISTRY = 'core.harbor.k8s.aisino'
-        DOCKERHUB_NAMESPACE = 'admin'
+        DOCKERHUB_NAMESPACE = 'kubesphere-devops-test'
         GITHUB_ACCOUNT = 'msdemt'
         APP_NAME = 'devops-java-sample'
         SONAR_CREDENTIAL_ID = 'sonar-token'
